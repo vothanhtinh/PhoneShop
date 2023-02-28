@@ -60,10 +60,11 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="./index.html">Home</a>
+                        @Html.ActionLink("Trang Chủ", "Index", "Home")
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./index.html#top-sale">Top sale</a>
+                        @Html.ActionLink("Product", "Index", "Shop")
+
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./index.html#special-price">Special Price</a>
