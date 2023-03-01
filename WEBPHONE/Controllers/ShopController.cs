@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using WEBPHONE.Models.BUSS;
 
 namespace WEBPHONE.Controllers
 {
@@ -11,13 +12,16 @@ namespace WEBPHONE.Controllers
         // GET: Shop
         public ActionResult Index()
         {
-            return View();
+            var db =  ShopOnlineBUSS.DanhSach();
+
+            return View(db);
         }
 
         // GET: Shop/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(String id)
         {
-            return View();
+            var db = ShopOnlineBUSS.ChiTiet(id);
+            return View(db);
         }
 
         // GET: Shop/Create

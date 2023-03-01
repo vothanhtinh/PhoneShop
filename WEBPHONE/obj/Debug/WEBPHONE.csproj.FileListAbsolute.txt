@@ -214,3 +214,7 @@ C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\obj\Debug\WEBPHONE.csproj.
 C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\obj\Debug\WEBPHONE.csproj.CopyComplete
 C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\obj\Debug\WEBPHONE.dll
 C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\obj\Debug\WEBPHONE.pdb
+C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\bin\PagedList.dll
+C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\bin\PagedList.Mvc.dll
+C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\bin\PagedList.xml
+C:\Users\MXGC\Documents\BÀI TẬP\PhoneShop\WEBPHONE\bin\PagedList.Mvc.xml
